@@ -1,0 +1,22 @@
+{
+    "editor.autoClosingTags": true,
+    "editor.linkedEditing": true,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "other": "on",
+        "strings": "on"
+    },
+    "editor.parameterHints.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "emmet.triggerExpansionOnTab": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
